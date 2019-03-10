@@ -1,0 +1,26 @@
+{
+  "name": "es6",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "\u0016npm install --save-dev @babel/core @babel/cli"
+  },
+  "author": "clear",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/cli": "^7.2.3",
+    "@babel/core": "^7.3.4"
+  },
+  "dependencies": {
+    "app": "^0.1.0",
+    "babel-cli": "^6.26.0",
+    "create": "0.0.2",
+    "create-react-app": "^2.1.5",
+    "react": "^16.8.3"
+  }
+}
